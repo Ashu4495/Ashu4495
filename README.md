@@ -54,7 +54,7 @@
 | **[🌱 Intelligent Farming Assistant](https://github.com/Ashu4495/Intelligent-Farming-Assistant-for-Personalized-Crop-Planning-using-AI)** | Personalized crop planning AI utilizing advanced machine learning models | JavaScript, AI |
 | **[🤖 Chatbot using RAG](https://github.com/Ashu4495/Chatbot-using-RAG)** | Generative AI conversational agent built using Retrieval-Augmented Generation | Python, LLMs |
 | **[🧾 Vendor Invoice Intelligence](https://github.com/Ashu4495/Vendor-Invoice-Intelligence)** | Intelligent data extraction and processing pipeline for vendor invoices | Python, Jupyter |
-| **[📄 Automated IE Report Generator](https://github.com/Ashu4495/Automated-IE-Project-Report-Generator)** | Python automation script to dynamically generate Institutional Elective reports | Python |
+| **[📄 Automated IE Report Generator](https://github.com/Ashu4495/Automated-IE-Project-Report-Generator)** | Automated workflow and script to dynamically generate Institutional Elective reports | Zapier, Python |
 | **[🎬 Movie Recommender](https://github.com/Ashu4495/Movie-Recommender-System)** | Content-based movie recommendation engine utilizing NLP techniques | Python, Jupyter |
 | **[🌦️ Weather Analysis](https://github.com/Ashu4495/Weather-Analysis)** | Statistical analysis toolkit for variance and specific condition filtering | Python, Jupyter |
 | **[🏥 Disaster Damage Assessment](https://github.com/Ashu4495/Disaster_Damage_Assesment)** | Assesses and classifies disaster damage using data analysis | Python |
