@@ -23,8 +23,8 @@
 - 🎓 Studying **Artificial Intelligence and Data Science** at **TCET**
 - 🔭 I build intelligent systems with **Python**, **Machine Learning**, and **Generative AI**
 - 🤖 Passionate about automating complex workflows using **RPA (Power Automate Desktop, UiPath)**
-- 🌱 Currently exploring **advanced LLM integrations**, **Zapier automations**, and **3D web design**
-- ⚡ Fun fact: I've built everything from an intelligent 3D farming assistant to an automated HR resume bot!
+- 🌱 Currently exploring **advanced LLM integrations**, **Retrieval-Augmented Generation (RAG)**, and **3D web design**
+- ⚡ Fun fact: I've built everything from an intelligent farming assistant to automated report generators!
 
 ---
 
@@ -51,38 +51,35 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **🌱 Intelligent Farming Assistant** | Personalized crop planning AI utilizing advanced machine learning models | Python, AI, 3D Web |
-| **📄 HR Resume Parsing Bot** | RPA flow that extracts unstructured PDF data into organized Excel formats | Power Automate |
-| **🎟️ Event Registration System** | Automated pipeline parsing Excel data to dynamically generate custom Word badges | RPA, Excel/Word |
+| **[🌱 Intelligent Farming Assistant](https://github.com/Ashu4495/Intelligent-Farming-Assistant-for-Personalized-Crop-Planning-using-AI)** | Personalized crop planning AI utilizing advanced machine learning models | JavaScript, AI |
+| **[🤖 Chatbot using RAG](https://github.com/Ashu4495/Chatbot-using-RAG)** | Generative AI conversational agent built using Retrieval-Augmented Generation | Python, LLMs |
+| **[🧾 Vendor Invoice Intelligence](https://github.com/Ashu4495/Vendor-Invoice-Intelligence)** | Intelligent data extraction and processing pipeline for vendor invoices | Python, Jupyter |
+| **[📄 Automated IE Report Generator](https://github.com/Ashu4495/Automated-IE-Project-Report-Generator)** | Python automation script to dynamically generate Institutional Elective reports | Python |
 | **[🎬 Movie Recommender](https://github.com/Ashu4495/Movie-Recommender-System)** | Content-based movie recommendation engine utilizing NLP techniques | Python, Jupyter |
+| **[🌦️ Weather Analysis](https://github.com/Ashu4495/Weather-Analysis)** | Statistical analysis toolkit for variance and specific condition filtering | Python, Jupyter |
 | **[🏥 Disaster Damage Assessment](https://github.com/Ashu4495/Disaster_Damage_Assesment)** | Assesses and classifies disaster damage using data analysis | Python |
-| **[🛋️ Furniture Plaza](https://furniture-plaza.github.io)** | E-commerce front-end featuring engaging CSS animations | HTML, CSS, JS |
+| **[🏢 Enterprise Resource Planning (ERP)](https://github.com/Ashu4495/ERP)** | Comprehensive ERP application for managing business operations | JavaScript |
+| **[💊 Health Information Portal](https://Health.github.io)** | Informational web platform focused on health and wellness | CSS, HTML |
+| **[🛋️ Furniture Plaza](https://furniture-plaza.github.io)** | Interactive e-commerce frontend featuring engaging CSS animations | CSS, HTML |
+| **[📊 AtliQ Insight Hub](https://github.com/Ashu4495/AtliQ-Insight-Hub)** | Data visualization and business insight dashboard | HTML, CSS |
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Areas of Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashu4495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu4495&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu4495&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+- **Generative AI & NLP:** Developing applications that leverage Large Language Models to interpret, generate, and structure natural language data.
+- **Robotic Process Automation (RPA):** Architecting end-to-end automation pipelines to extract unstructured document data and streamline repetitive enterprise tasks.
+- **Data Science & Analytics:** Cleaning, visualizing, and extracting actionable business insights from complex datasets using Python.
+- **Frontend Development:** Crafting responsive, modern user interfaces with a focus on CSS animations and interactive 3D web elements.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Education & Academic Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashu4495&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+- **B.E. in Artificial Intelligence and Data Science** | *Thakur College of Engineering and Technology (TCET)*
+- **Core Focus:** Deep Learning, Machine Learning, Natural Language Processing, and Data Structures.
+- **Key Academic Projects:** Spearheaded the development of the "Intelligent Farming Assistant for Personalized Crop Planning using AI" as a core institutional project.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashu4495&color=blue&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center"><em>Thanks for visiting! Feel free to explore my repos and drop a ⭐ if something interests you.</em></p>
+<p align="center"><em>Thanks for visiting! Feel free to explore my repositories and drop a ⭐ if you find my work helpful.</em></p>
