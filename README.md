@@ -107,17 +107,7 @@ ashish = {
 
 ---
 
-### 📈 Contribution Graph
 
-<div align="center">
-
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu4495&theme=tokyo-night&hide_border=true)](https://github.com/Ashu4495)
-
-</div>
-
----
-
-<div align="center">
 
 *Thanks for visiting — drop a ⭐ if you find my work helpful!*
 
