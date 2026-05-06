@@ -1,29 +1,27 @@
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Ashish+Choudhary+%F0%9F%91%8B;AI+%26+Data+Science+Student;RPA+%26+Automation+Developer;Building+the+future+with+AI+%F0%9F%A4%96)
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashish%20Choudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20RPA%20Developer%20%7C%20Mumbai%20🇮🇳&descAlignY=58&descSize=18" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-choudhary-0a59a61a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishjac4495@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://furniture-plaza.github.io)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashu4495&color=blueviolet&style=for-the-badge)](https://github.com/Ashu4495)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-
 ### 🙋‍♂️ About Me
 
-- 🎓 Studying **AI & Data Science** at **TCET, Mumbai**
-- 🤖 Passionate about **Generative AI**, **RAG systems**, and **RPA**
-- 🔧 I automate complex workflows with **Power Automate** & **UiPath**
-- 🌱 Currently diving into **LLM integrations** & **3D web design**
-- 🏆 GitHub **PRO** member
-- ⚡ Built everything from an AI farming assistant to automated invoice processors!
-
-<br clear="right"/>
+```python
+ashish = {
+    "college"  : "TCET Mumbai — B.E. AI & Data Science",
+    "focus"    : ["Generative AI", "RAG Systems", "RPA & Automation"],
+    "tools"    : ["Power Automate", "UiPath", "Zapier", "LangChain"],
+    "learning" : ["Advanced LLM integrations", "3D Web Design"],
+    "fun_fact" : "Built an AI farming assistant AND automated invoice pipelines 🚀"
+}
+```
 
 ---
 
@@ -41,10 +39,10 @@
 **AI, ML & Automation**
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -64,6 +62,21 @@
 | [🌦️ Weather Analysis](https://github.com/Ashu4495/Weather-Analysis) | Statistical toolkit for variance & condition-based filtering | Python · Jupyter |
 | [🏢 ERP System](https://github.com/Ashu4495/ERP) | Comprehensive ERP app for managing business operations | JavaScript |
 | [🛋️ Furniture Plaza](https://furniture-plaza.github.io) | E-commerce frontend with engaging CSS animations | CSS · HTML |
+
+</div>
+
+---
+
+### 🎯 What I Do
+
+<div align="center">
+
+|  | Area | Details |
+|:---:|:-----|:--------|
+| 🧠 | **Generative AI & NLP** | LLMs · RAG pipelines · NLP · LangChain |
+| 🤖 | **RPA & Automation** | Power Automate · UiPath · Zapier · end-to-end pipelines |
+| 📊 | **Data Science** | Python · Analysis · Visualization · ML models |
+| 🌐 | **Frontend Dev** | CSS Animations · 3D Web · Responsive UI |
 
 </div>
 
@@ -94,33 +107,20 @@
 
 ---
 
-### 🎯 Expertise Snapshot
+### 📈 Contribution Graph
 
 <div align="center">
 
-| 🧠 Generative AI & NLP | 🤖 RPA & Automation | 📊 Data Science | 🌐 Frontend Dev |
-|:----------------------:|:-------------------:|:---------------:|:---------------:|
-| LLMs · RAG · NLP pipelines | Power Automate · UiPath · Zapier | Python · Analysis · Visualization | CSS Animations · 3D Web |
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu4495&theme=tokyo-night&hide_border=true)](https://github.com/Ashu4495)
 
 </div>
 
 ---
 
-### 🎓 Education
-
-**B.E. in Artificial Intelligence and Data Science**
-*Thakur College of Engineering and Technology (TCET), Mumbai*
-
-> Core: Deep Learning · Machine Learning · NLP · Data Structures
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ashu4495&color=blueviolet&style=for-the-badge)
-
 *Thanks for visiting — drop a ⭐ if you find my work helpful!*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:a855f7&height=100&section=footer)
 
 </div>
